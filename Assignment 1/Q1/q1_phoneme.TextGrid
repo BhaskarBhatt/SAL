@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.5309791666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phoneme" 
+        xmin = 0 
+        xmax = 2.5309791666666666 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5121140763633799 
+            text = " " 
+        intervals [2]:
+            xmin = 0.5121140763633799 
+            xmax = 0.6306392298689774 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.6306392298689774 
+            xmax = 0.6395286163818971 
+            text = "" 
+        intervals [4]:
+            xmin = 0.6395286163818971 
+            xmax = 0.8454660705978725 
+            text = "IY" 
+        intervals [5]:
+            xmin = 0.8454660705978725 
+            xmax = 0.8543554571107923 
+            text = "" 
+        intervals [6]:
+            xmin = 0.8543554571107923 
+            xmax = 0.9891778192234093 
+            text = "S" 
+        intervals [7]:
+            xmin = 0.9891778192234093 
+            xmax = 0.9965856413175092 
+            text = "" 
+        intervals [8]:
+            xmin = 0.9965856413175092 
+            xmax = 1.002511898992789 
+            text = "" 
+        intervals [9]:
+            xmin = 1.002511898992789 
+            xmax = 1.0469588315573881 
+            text = "T" 
+        intervals [10]:
+            xmin = 1.0469588315573881 
+            xmax = 1.052885089232668 
+            text = "" 
+        intervals [11]:
+            xmin = 1.052885089232668 
+            xmax = 1.1669655494818054 
+            text = "OW" 
+        intervals [12]:
+            xmin = 1.1669655494818054 
+            xmax = 1.1728918071570853 
+            text = "" 
+        intervals [13]:
+            xmin = 1.1728918071570853 
+            xmax = 1.318085120201442 
+            text = "L" 
+        intervals [14]:
+            xmin = 1.318085120201442 
+            xmax = 1.3936449055612603 
+            text = "" 
+        intervals [15]:
+            xmin = 1.3936449055612603 
+            xmax = 1.3951264699800803 
+            text = " " 
+        intervals [16]:
+            xmin = 1.3951264699800803 
+            xmax = 1.4425365313823193 
+            text = "DH" 
+        intervals [17]:
+            xmin = 1.4425365313823193 
+            xmax = 1.4484627890575992 
+            text = "" 
+        intervals [18]:
+            xmin = 1.4484627890575992 
+            xmax = 1.495872850459838 
+            text = "AH" 
+        intervals [19]:
+            xmin = 1.495872850459838 
+            xmax = 1.5017991081351179 
+            text = "" 
+        intervals [20]:
+            xmin = 1.5017991081351179 
+            xmax = 1.547727605118537 
+            text = "M" 
+        intervals [21]:
+            xmin = 1.547727605118537 
+            xmax = 1.5506907339561768 
+            text = "" 
+        intervals [22]:
+            xmin = 1.5506907339561768 
+            xmax = 1.587729844426676 
+            text = "AH" 
+        intervals [23]:
+            xmin = 1.587729844426676 
+            xmax = 1.590692973264316 
+            text = "" 
+        intervals [24]:
+            xmin = 1.590692973264316 
+            xmax = 1.6544002432735745 
+            text = "N" 
+        intervals [25]:
+            xmin = 1.6544002432735745 
+            xmax = 1.6603265009488544 
+            text = "" 
+        intervals [26]:
+            xmin = 1.6603265009488544 
+            xmax = 1.8307064091131506 
+            text = "IY" 
+        intervals [27]:
+            xmin = 1.8307064091131506 
+            xmax = 2.5309791666666666 
+            text = "" 

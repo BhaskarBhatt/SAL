@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.616 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phoneme" 
+        xmin = 0 
+        xmax = 2.616 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5921017117834395 
+            text = " " 
+        intervals [2]:
+            xmin = 0.5921017117834395 
+            xmax = 0.6962323718876665 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.6962323718876665 
+            xmax = 0.7054203713086277 
+            text = "" 
+        intervals [4]:
+            xmin = 0.7054203713086277 
+            xmax = 0.9259323574116965 
+            text = "IY" 
+        intervals [5]:
+            xmin = 0.9259323574116965 
+            xmax = 1.1877903409090909 
+            text = " " 
+        intervals [6]:
+            xmin = 1.1877903409090909 
+            xmax = 1.2949836674869717 
+            text = "S" 
+        intervals [7]:
+            xmin = 1.2949836674869717 
+            xmax = 1.3179536660393747 
+            text = "" 
+        intervals [8]:
+            xmin = 1.3179536660393747 
+            xmax = 1.4021769940648523 
+            text = "T" 
+        intervals [9]:
+            xmin = 1.4021769940648523 
+            xmax = 1.4098336602489867 
+            text = "" 
+        intervals [10]:
+            xmin = 1.4098336602489867 
+            xmax = 1.4588363238274464 
+            text = "OW" 
+        intervals [11]:
+            xmin = 1.4588363238274464 
+            xmax = 1.4649616567747539 
+            text = "" 
+        intervals [12]:
+            xmin = 1.4649616567747539 
+            xmax = 1.5292776527214824 
+            text = "L" 
+        intervals [13]:
+            xmin = 1.5292776527214824 
+            xmax = 1.5323403191951361 
+            text = "" 
+        intervals [14]:
+            xmin = 1.5323403191951361 
+            xmax = 1.5828743160104228 
+            text = "DH" 
+        intervals [15]:
+            xmin = 1.5828743160104228 
+            xmax = 1.592062315431384 
+            text = "" 
+        intervals [16]:
+            xmin = 1.592062315431384 
+            xmax = 1.659440977851766 
+            text = "AH" 
+        intervals [17]:
+            xmin = 1.659440977851766 
+            xmax = 1.6640349775622467 
+            text = "" 
+        intervals [18]:
+            xmin = 1.6640349775622467 
+            xmax = 1.7176316408511871 
+            text = "M" 
+        intervals [19]:
+            xmin = 1.7176316408511871 
+            xmax = 1.7222256405616676 
+            text = "" 
+        intervals [20]:
+            xmin = 1.7222256405616676 
+            xmax = 1.798792302403011 
+            text = "AH" 
+        intervals [21]:
+            xmin = 1.798792302403011 
+            xmax = 1.8079803018239722 
+            text = "" 
+        intervals [22]:
+            xmin = 1.8079803018239722 
+            xmax = 1.8707649645338738 
+            text = "N" 
+        intervals [23]:
+            xmin = 1.8707649645338738 
+            xmax = 1.8784216307180082 
+            text = "" 
+        intervals [24]:
+            xmin = 1.8784216307180082 
+            xmax = 2.020835621742907 
+            text = "IY" 
+        intervals [25]:
+            xmin = 2.020835621742907 
+            xmax = 2.616 
+            text = "" 
